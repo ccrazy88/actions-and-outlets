@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F64B23E4-F4CB-4EFC-A0E8-A37D5B39507C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ActionsAndOutlets</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>520F7EEAA673B4C436EDBB238BEC5E5AB0AAB4F0</key>
+		<string>github.com:ccrazy88/actions-and-outlets.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ActionsAndOutlets.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>520F7EEAA673B4C436EDBB238BEC5E5AB0AAB4F0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ccrazy88/actions-and-outlets.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>520F7EEAA673B4C436EDBB238BEC5E5AB0AAB4F0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>520F7EEAA673B4C436EDBB238BEC5E5AB0AAB4F0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>actions-and-outlets</string>
+		</dict>
+	</array>
+</dict>
+</plist>
